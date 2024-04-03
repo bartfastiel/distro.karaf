@@ -49,7 +49,7 @@
         <repository>
             <id>apache-snapshots</id>
             <name>Apache Snapshots Repository</name>
-            <url>http://repository.apache.org/content/groups/snapshots-group</url>
+            <url>https://repository.apache.org/content/groups/snapshots-group</url>
             <releases>
                 <enabled>false</enabled>
             </releases>
@@ -61,7 +61,7 @@
         <repository>
             <id>servicemix</id>
             <name>Apache ServiceMix Repository</name>
-            <url>http://svn.apache.org/repos/asf/servicemix/m2-repo</url>
+            <url>https://svn.apache.org/repos/asf/servicemix/m2-repo</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -73,7 +73,7 @@
         <repository>
             <id>zodiac-repository</id>
             <name>Zodiac Release Repository</name>
-            <url>http://zodiac.springsource.com/maven/bundles/release</url>
+            <url>https://zodiac.springsource.com/maven/bundles/release</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -85,7 +85,7 @@
         <repository>
             <id>spring-ebr-repository</id>
             <name>Spring EBR Repository</name>
-            <url>http://repository.springsource.com/maven/bundles/external</url>
+            <url>https://repository.springsource.com/maven/bundles/external</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -99,7 +99,7 @@
 		  </snapshots>
 		  <id>uaal</id>
 		  <name>universAAL Repositories</name>
-		  <url>http://depot.universaal.org/maven-repo/releases/</url>
+		  <url>https://depot.universaal.org/maven-repo/releases/</url>
 		</repository>
 		<repository>
 		  <releases>
@@ -107,12 +107,12 @@
 		  </releases>
 		  <id>uaal-snapshots</id>
 		  <name>universAAL Snapshot Repositories</name>
-		  <url>http://depot.universaal.org/maven-repo/snapshots/</url>
+		  <url>https://depot.universaal.org/maven-repo/snapshots/</url>
 		</repository>
 		<repository>
 		  <id>uaal-thirdparty</id>
 		  <name>universAAL ThirdParty Repositories</name>
-		  <url>http://depot.universaal.org/maven-repo/thirdparty/</url>
+		  <url>https://depot.universaal.org/maven-repo/thirdparty/</url>
 		</repository>
 		<repository>
 		  <releases>
@@ -120,7 +120,7 @@
 		  </releases>
 		  <id>uaal-thirdparty-snapshots</id>
 		  <name>universAAL ThirdParty Repositories</name>
-		  <url>http://depot.universaal.org/maven-repo/thirdparty-snapshots/</url>
+		  <url>https://depot.universaal.org/maven-repo/thirdparty-snapshots/</url>
 		</repository>
     </repositories>
 
